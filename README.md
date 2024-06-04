@@ -32,11 +32,11 @@ The desire to innovate and see my ideas come true means that I always have some 
 - I am very close to closing my career plan
 - I was a finalist in the national Olympics in the area of mathematics for three consecutive years, obtaining 2 silver medals and one bronze in 2013-2015.
 - I represented Guatemala in the Central American Mathematics Olympiad in 2016 in Kingston Jamaica.
-- I participated in the math competition organized by Burger King in 2015 and won first place, which earned me a ticket redeemable for a family burger combo.
+- I participated in the math competition organized by Burger King in 2015 and won first place, which earned me a ticket redeemable for a family burger combo 👍😄🍔
 - My first mobile application was a 2D video game developed in Unity using C# when I was 15, which was uploaded to the Play Store and since I added Google ads, it generated the funny amount of $1.20 😂 but I learned a lot, which made it special.
 - The first 3D printer I built along with a team of friends was sold to an advertising company in 2017 and we called it "Talent 3D".
-- In 2019 my apps were removed from Google Play for not updating the recent APIs, but I keep the APK projects and installers :)
-- I enjoy music a lot, that's why one of my favorite hobbies is HiFi audio. Yes, I have a part of me that is a music lover but also an audiophile.
+- In 2019 my apps were removed from Google Play for not updating the recent APIs, but I keep the APK projects and installers 😄
+- I enjoy music a lot, that's why one of my favorite hobbies is HiFi audio. Yes, I have a part of me that is a music lover but also an audiophile 🎶
 
 ### 🛠️ Hobbies I’m interested in
 - 💻 Programming (especially discovering AI tech and machine learning)
