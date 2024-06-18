@@ -10,17 +10,17 @@
 
 👋 Hi my name is Dyllan, a developer and Systems Engineering student with knowledge in software development.
 
-A good performance in science and mathematics made me compete in national (ONC) and international (OMCC) competitions in my student life, obtaining important recognitions. But, the most valuable thing about the Olympics has been expressing logical and critical thinking when solving problems, which is important when developing software and computer systems. Some of the programming languages ​​that I have used the most are: Python, Java, C#, C++ and JavaScript.
+A good performance in science and mathematics made me compete in national (ONC) and international (OMCC) competitions in my student life, obtaining important recognitions. But, the most valuable thing about the Olympics has been expressing logical and critical thinking when solving problems, which is important when developing software and computer systems. Some of the programming languages ​​that I have used the most are Python, Java, C#, C++, and JavaScript.
 
-Aside from programming I always desire to learn new and interesting things. That's why I am part of the maker culture, which makes me want to develop or invent my own things. Among them, over time I have developed things like two 2D video games, both released for Android devices in Google Play Store, my own RepRap 3D printer, a stereo HIFI system powered by my own amplifier which uses an Arduino as a controller for example.
+Aside from programming I always desire to learn new and interesting things. That's why I am part of the maker culture, which makes me want to develop or invent my own things. Among them, over time I have developed things like two 2D video games, both released for Android devices in Google Play Store, my own RepRap 3D printer, a stereo HIFI system powered by my own amplifier which uses an Arduino as a controller for example. And many more projects.
 
 The desire to innovate and see my ideas come true means that I always have some good DIY projects to cook!🏗️
 
 
 ### 🔭 I’m currently working on
+- .NET developer
 - Personal maker projects
 - University projects
-- Professional recruitment process
 
 ### 🌱 I’m currently learning
 - NoSQL database management
